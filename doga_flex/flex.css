@@ -47,6 +47,7 @@ header table td, header table th {
     flex: 0.2;
     padding: 1vw;
     border-radius: 1vw;
+    box-shadow: 5px 5px 10px;
 }
 div h1{
     text-align: center;
