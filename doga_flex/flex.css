@@ -35,3 +35,35 @@ header table td, header table th {
     border: 1px solid black;
     padding: 5px;
 }
+#doboz{
+    display: flex;
+    justify-content: space-around;
+    background-color: #6fb8b0;
+    vertical-align: middle;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+#doboz div {
+    flex: 0.2;
+    padding: 1vw;
+    border-radius: 1vw;
+}
+div h1{
+    text-align: center;
+    border-bottom: solid black 1px;
+}
+div p{
+    padding-top: 1vh;
+}
+#bekezdes1{
+    background-color: #ffc300;
+}
+#bekezdes2{
+    background-color: #ffd000;
+}
+#bekezdes3{
+    background-color: #ffdd00;
+}
+#bekezdes4{
+    background-color: #ffea00;
+}
