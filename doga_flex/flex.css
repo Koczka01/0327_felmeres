@@ -67,3 +67,15 @@ div p{
 #bekezdes4{
     background-color: #ffea00;
 }
+@media (max-width: 800px){
+    #doboz{
+        flex-direction: column;
+        padding: 3vw;
+    }
+    #doboz div{
+        margin-bottom: 2vw;
+    }
+    #ul{
+        padding: auto;
+    }
+}
